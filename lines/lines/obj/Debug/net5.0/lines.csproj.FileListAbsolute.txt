@@ -1,0 +1,16 @@
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\bin\Debug\net5.0\lines.exe
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\bin\Debug\net5.0\lines.deps.json
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\bin\Debug\net5.0\lines.runtimeconfig.json
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\bin\Debug\net5.0\lines.runtimeconfig.dev.json
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\bin\Debug\net5.0\lines.dll
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\bin\Debug\net5.0\ref\lines.dll
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\bin\Debug\net5.0\lines.pdb
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\obj\Debug\net5.0\lines.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\obj\Debug\net5.0\lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\obj\Debug\net5.0\lines.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\obj\Debug\net5.0\lines.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\obj\Debug\net5.0\lines.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\obj\Debug\net5.0\lines.dll
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\obj\Debug\net5.0\ref\lines.dll
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\obj\Debug\net5.0\lines.pdb
+C:\Users\ASUS TUF GAMING\source\repos\lines\lines\obj\Debug\net5.0\lines.genruntimeconfig.cache
